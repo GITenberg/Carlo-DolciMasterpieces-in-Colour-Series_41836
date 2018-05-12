@@ -1,0 +1,36 @@
+_repo: Carlo-DolciMasterpieces-in-Colour-Series_41836
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41836-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Hay, George
+    birthdate: 1876
+    gutenberg_agent_id: '41124'
+    url: http://www.gutenberg.org/2009/agents/41124
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, T. L. (Thomas Leman)
+    - Hare, Thomas Leman
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcsh 'Dolci, Carlo, 1616-1686'
+- !lcc 'ND'
+title: Carlo Dolci
+url: http://www.gutenberg.org/ebooks/41836
